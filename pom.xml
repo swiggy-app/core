@@ -2,6 +2,7 @@
 
  <version>rel-1.0.0</version>
  <package>jar</package>
+ <group-id>com.qfit.app</group-id>
  <dependencies> 
   <dependency>
    </dependency>
