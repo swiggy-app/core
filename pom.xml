@@ -1,6 +1,7 @@
 <project>
 
  <version>rel-1.0.0</version>
+ <package>war</package>
  <dependencies> 
   <dependency>
    </dependency>
